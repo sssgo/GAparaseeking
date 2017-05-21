@@ -12,7 +12,7 @@ import math
 
 class GA(object):
     '''
-    遗传算法
+    遗传算法。
     '''
     
     def __init__(self,lenofdna,popsize,pofcross,pofmutate):
